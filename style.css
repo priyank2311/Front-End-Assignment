@@ -1,0 +1,108 @@
+.user{
+    font-size: 19px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: 10px;
+}
+.username{
+    width: 250px;
+    height: 30px;
+    font-size: 1.1rem;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.4);
+}
+.username:hover{
+        background-color: rgba(0, 0, 0, 0.1);
+  }
+.pass{
+    font-size: large;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+}
+.password{
+    width: 250px;
+    height: 30px;
+    font-size: 1.1rem;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.4);
+}
+.password:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.btn{
+    align-items: center;
+    text-align: center;
+}
+.bttn{
+    font-weight: 600;
+    width: 120px;
+    height: 30px;
+    color: red;
+}
+.bttn:hover{
+    background-color: red;
+    color: black;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.4);
+}
+.image{
+    align-items: center;
+    text-align: center;
+    margin: 50px;
+    height: 120px;
+}
+
+.userName{
+    font-size: 25px;
+    font-weight: 600;
+}
+.main{
+    margin: 25px 10px 20px 10px;
+}
+.main1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+.main2{
+    display : flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.gama{
+    text-align: center;
+    font-size: 1.1rem;
+    width: 400px;
+    font-weight: 600;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.3);
+}
+.gama:hover{
+    background-color: burlywood;
+    font-weight: 600;
+}
+.bttn1{
+    font-weight: 600;
+    width: 120px;
+    height: 30px;
+    color: red;
+    border-radius: 0.8rem;
+}
+.bttn1:hover{
+    background-color:gray;
+    color: black;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.4);
+}
+.frame{
+    margin: 1rem;
+}
+.abcd{
+    flex-direction: row;
+    width: 500px;
+    height: 420px;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.4);
+}
